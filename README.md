@@ -2,7 +2,7 @@
 
 This repository contains data and tools for visualizing Medium-Scale Traveling Ionospheric Disturbance (MSTID) activity observed by SuperDARN radars.
 
-# Rules of the Road
+## Rules of the Road
 Please contact Nathaniel Frissell at nathaniel.frissell@scranton.edu before using this code or data.
 
 ## Installation

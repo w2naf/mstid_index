@@ -1,0 +1,7 @@
+colorcet
+matplotlib
+numpy
+pandas
+scipy
+tqdm
+xarray

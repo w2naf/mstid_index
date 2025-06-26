@@ -9,7 +9,7 @@ Please contact Nathaniel Frissell at nathaniel.frissell@scranton.edu before usin
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/mstid_index.git
+   git clone https://github.com/w2naf/mstid_index.git
    cd mstid_index
    ```
 
